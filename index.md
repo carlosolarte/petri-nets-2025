@@ -2,7 +2,7 @@
 layout: page
 title: Petri Nets 2025
 toc: false
-show_sidebar: false
+show_sidebar: true
 hide_footer: true
 ---
 
