@@ -1,3 +1,5 @@
 - name: Committees
-  link: /committees
+  link: committees.md
+- name: CFP
+  link: cfp.md
 
