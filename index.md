@@ -61,4 +61,4 @@ The conference will take place at the [Campus Condorcet](https://www.campus-cond
 * Modelling of hardware and biological systems
 
 
-<img alt="USPN" src="/img/USPN.png">
+<img alt="USPN" src="./img/USPN.png">
