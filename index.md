@@ -1,3 +1,11 @@
+---
+layout: page
+title: Petri Nets 2025
+toc: false
+show_sidebar: true
+hide_footer: true
+---
+
 # Petri Nets 2025
 
 ## Welcome 
