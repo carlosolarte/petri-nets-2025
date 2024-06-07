@@ -8,8 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # With GitHub Pages Gem
 #remote_theme: chrisrhymes/bulma-clean-theme
-#remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
-remote-theme: jekyll-theme-conference
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
+#remote-theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
