@@ -2,7 +2,7 @@
 layout: page
 title: Petri Nets 2025
 toc: false
-show_sidebar: true
+show_sidebar: false
 hide_footer: true
 ---
 
@@ -59,3 +59,6 @@ The conference will take place at the [Campus Condorcet](https://www.campus-cond
 * Educational issues related to concurrency
 * New developments in the theory of concurrency
 * Modelling of hardware and biological systems
+
+
+<img alt="USPN" src="/images/USPN.png">
