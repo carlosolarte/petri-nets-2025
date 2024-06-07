@@ -31,3 +31,5 @@ scholar:
 
 permalink: pretty
 fixed_navbar: top
+
+theme_color: '#0073c0';
