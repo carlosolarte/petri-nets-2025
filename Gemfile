@@ -13,4 +13,4 @@ end
 
 gem "jekyll-scholar"
 #gem "bulma-clean-theme"
-
+gem "jekyll-theme-conference"
